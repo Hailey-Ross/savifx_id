@@ -5,6 +5,6 @@ This reource was created by [savilah](https://github.com/savilah), all credit go
 
 ## Instructions
 
-- Extract download into your resources folder
+- Extract the download into your resources folder
 - Add `ensure savifx_id` in your server.cfg
 - Restart server or `refresh` and `start savifx_id`
