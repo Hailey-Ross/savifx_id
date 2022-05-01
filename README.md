@@ -1,7 +1,7 @@
 # savifx_id
 Fork of savifx_id that adds IDs above players heads while the ALT key is held
 
-This reource was created by [savilah](https://github.com/savilah) and all credit goes to them.
+This reource was created by [savilah](https://github.com/savilah), all credit goes to them.
 
 ## Instructions
 
